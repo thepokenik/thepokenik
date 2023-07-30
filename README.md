@@ -1,16 +1,47 @@
-### Hi there 👋
+<!-- Nikolas Melo -->
 
-<!--
-**thepokenik/thepokenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, world! 👋
 
-Here are some ideas to get you started:
+I'm Nikolas Melo, a software development intern passionate about Data Science, Computer Vision, and Artificial Intelligence. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Areas of Interest
+
+- Data Science: Exploratory analysis, data cleaning, and modeling.
+- Computer Vision: Object detection, segmentation, and facial recognition.
+- Artificial Intelligence: Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+
+### 🧰 Tools and Technologies
+
+Here are some of the tools and technologies I'm familiar with:
+
+- Languages: Python
+- Libraries: NumPy, Pandas, Matplotlib, PyTorch, OpenCV, Scikit-learn
+- Visualization Tools: Tableau, Power BI
+- Database: SQL, SQLite
+- Version Control: Git
+- Development Environment: Jupyter Notebook, VSCode
+
+### 🌱 Currently Learning
+
+I'm always eager to learn new things and improve my skills. Currently, I'm focused on:
+
+- Deepening my knowledge of Machine Learning algorithms.
+- Exploring advanced Computer Vision techniques.
+- Learning more about NLP and its practical applications.
+
+### 📈 GitHub Statistics
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thepokenik&show_icons=true&theme=midnight-purple)
+
+### 🤝 Let's Collaborate!
+
+I'm open to collaborating on exciting projects. If you are working on something related to Data Science, Computer Vision, or Artificial Intelligence and need assistance or want to collaborate on an idea, feel free to reach out to me. Let's build amazing things together!
+
+### 📫 How to Reach Me
+
+- LinkedIn: [Nikolas Melo](https://www.linkedin.com/in/nikolas-melo-5743b1258/)
+- Email: nikolaspedromelo@hotmail.com
+
+### 😄 Thank You for Visiting!
+
+Thanks for stopping by. Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, don't hesitate to get in touch. Have a great day! 👍
