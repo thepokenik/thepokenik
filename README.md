@@ -16,8 +16,7 @@ Here are some of the tools and technologies I'm familiar with:
 
 - Languages: Python
 - Libraries: NumPy, Pandas, Matplotlib, PyTorch, OpenCV, Scikit-learn
-- Visualization Tools: Tableau, Power BI
-- Database: SQL, SQLite
+- Database: SQL
 - Version Control: Git
 - Development Environment: Jupyter Notebook, VSCode
 
@@ -32,10 +31,6 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 ### 📈 GitHub Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thepokenik&show_icons=true&theme=midnight-purple)
-
-### 🤝 Let's Collaborate!
-
-I'm open to collaborating on exciting projects. If you are working on something related to Data Science, Computer Vision, or Artificial Intelligence and need assistance or want to collaborate on an idea, feel free to reach out to me. Let's build amazing things together!
 
 ### 📫 How to Reach Me
 
