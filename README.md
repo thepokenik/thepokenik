@@ -31,6 +31,7 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 ### 📈 GitHub Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thepokenik&show_icons=true&theme=midnight-purple)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thepokenik&layout=compact&langs_count=8&show_icons=true&theme=midnight-purple)
 
 ### 📫 How to Reach Me
 
