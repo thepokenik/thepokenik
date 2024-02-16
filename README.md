@@ -2,31 +2,18 @@
 
 ## Hello, world! 👋
 
-I'm Nikolas Melo, a software development intern passionate about Data Science, Computer Vision, and Artificial Intelligence. Welcome to my GitHub profile!
+<kbd>  <img src="https://raw.githubusercontent.com/thepokenik/thepokenik/main/banner.png"> </kbd>
 
-### 🧠 Areas of Interest
-
-- Data Science: Exploratory analysis, data cleaning, and modeling.
-- Computer Vision: Object detection, segmentation, and facial recognition.
-- Artificial Intelligence: Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+Welcome to my GitHub profile!
+<p>I'm Nikolas Melo, a software developer passionate about Data Science, Computer Vision, and Artificial Intelligence.</p>
 
 ### 🧰 Tools and Technologies
 
 Here are some of the tools and technologies I'm familiar with:
 
-- Languages: Python
-- Libraries: NumPy, Pandas, Matplotlib, PyTorch, OpenCV, Scikit-learn
-- Database: SQL
-- Version Control: Git
-- Development Environment: Jupyter Notebook, VSCode
-
-### 🌱 Currently Learning
-
-I'm always eager to learn new things and improve my skills. Currently, I'm focused on:
-
-- Deepening my knowledge of Machine Learning algorithms.
-- Exploring advanced Computer Vision techniques.
-- Learning more about NLP and its practical applications.
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=py,go,typescript,pytorch,opencv,electron,django,postgres,qt" />
+</div>
 
 ### 📈 GitHub Statistics
 
@@ -35,8 +22,12 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [Nikolas Melo](https://www.linkedin.com/in/nikolas-melo-5743b1258/)
-- Email: nikolaspedromelo@hotmail.com
+<a href="https://www.linkedin.com/in/nikolas-melo-5743b1258/" align="left">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:nikolaspedro.np@gmail.com" align="left">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ### 😄 Thank You for Visiting!
 
