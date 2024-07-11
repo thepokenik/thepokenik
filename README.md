@@ -4,8 +4,13 @@
 
 <kbd>  <img src="https://raw.githubusercontent.com/thepokenik/thepokenik/main/banner.png"> </kbd>
 
-Welcome to my GitHub profile!
-<p>I'm Nikolas Melo, a software developer passionate about Data Science, Computer Vision, and Artificial Intelligence.</p>
+---
+
+**Welcome to my GitHub profile!**
+
+Hi, I'm Nikolas Melo. As a Full-stack Developer, I bring practical experience and deep knowledge in various technologies. My expertise includes Python, applied to Computer Vision and AI, and backend development using Django. On the frontend side, I specialize in HTML, CSS, React, and Tailwind I am passionate about leveraging these skills to create innovative solutions and continuously learning in this dynamic field.
+
+---
 
 ### 🧰 Tools and Technologies
 
@@ -17,8 +22,10 @@ Here are some of the tools and technologies I'm familiar with:
 
 ### 📈 GitHub Statistics
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thepokenik&show_icons=true&theme=midnight-purple)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thepokenik&layout=compact&langs_count=8&show_icons=true&theme=midnight-purple)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thepokenik&show_icons=true&theme=midnight-purple" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepokenik&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=midnight-purple" height="200px"/>
+</div>
 
 ### 📫 How to Reach Me
 
@@ -28,7 +35,3 @@ Here are some of the tools and technologies I'm familiar with:
 <a href="mailto:nikolaspedro.np@gmail.com" align="left">
     <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-### 😄 Thank You for Visiting!
-
-Thanks for stopping by. Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, don't hesitate to get in touch. Have a great day! 👍
