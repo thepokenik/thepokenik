@@ -20,12 +20,7 @@ Here are some of the tools and technologies I'm familiar with:
     <img src="https://skillicons.dev/icons?i=py,go,typescript,pytorch,opencv,electron,django,postgres,qt" />
 </div>
 
-### 📈 GitHub Statistics
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thepokenik&show_icons=true&theme=midnight-purple" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepokenik&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=midnight-purple" height="200px"/>
-</div>
+---
 
 ### 📫 How to Reach Me
 
