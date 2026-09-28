@@ -1,32 +1,17 @@
-<!-- Nikolas Melo -->
+![Nikolas Melo — full-stack developer](./banner.svg)
 
 ## Hello, world! 👋
 
-<kbd>  <img src="https://raw.githubusercontent.com/thepokenik/thepokenik/main/banner.png"> </kbd>
+I'm Nikolas, a full-stack developer based in São José dos Campos, Brazil. I build interfaces, APIs and integrations with TypeScript, React and Python, and I've also worked on computer vision and applied AI in industrial settings.
 
----
+Today I'm at **SPS Group**, working on product features and SAP integrations for Aster. Before that, at **Autaza**, I built computer vision solutions and helped move a desktop application from PyQt to Electron + React.
 
-**Welcome to my GitHub profile!**
+### Things I work with
 
-Hi, I'm Nikolas Melo. As a Full-stack Developer, I bring practical experience and deep knowledge in various technologies. My expertise includes Python, applied to Computer Vision and AI, and backend development using Django. On the frontend side, I specialize in HTML, CSS, React, and Tailwind I am passionate about leveraging these skills to create innovative solutions and continuously learning in this dynamic field.
+`TypeScript` · `React` · `Python` · `Django` · `FastAPI` · `PostgreSQL` · `Docker`
 
----
+I also enjoy exploring local AI. **Wisp**, a meeting assistant I built, uses speech transcription and retrieval to turn conversations into useful notes while keeping processing local.
 
-### 🧰 Tools and Technologies
+### Find me
 
-Here are some of the tools and technologies I'm familiar with:
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=py,go,typescript,pytorch,opencv,electron,django,postgres,qt" />
-</div>
-
----
-
-### 📫 How to Reach Me
-
-<a href="https://www.linkedin.com/in/nikolas-melo-5743b1258/" align="left">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:nikolaspedro.np@gmail.com" align="left">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/nikolas-melo-5743b1258/) · [Email](mailto:nikolaspedro.np@gmail.com)
