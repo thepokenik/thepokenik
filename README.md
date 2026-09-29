@@ -1,4 +1,4 @@
-![Nikolas Melo — full-stack developer](./banner.svg)
+![Nikolas Melo — full-stack developer](./banner.jpg)
 
 ## Hello, world! 👋
 
